@@ -88,8 +88,8 @@ body {
 
 
 
-.idea-6 span{
-  font-size: 2rem;
+.idea-6 {
+  font-size: 0.9em; /* Decreased font size */
 }
 
 
@@ -267,7 +267,7 @@ body {
   }
 
   .idea-6 span {
-    font-size: 10rem;
+    font-size: 2em;
   }
 
   .six .hat {
@@ -280,7 +280,7 @@ body {
   }
 
   .wish h5 {
-    font-size: 0.8rem;
+    font-size: 0.6rem;
   }
 
   .nine p {
@@ -288,3 +288,4 @@ body {
     font-weight: lighter;
   }
 }
+
